@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p El componente formativo de Gestión de contenido digital se enfoca en la planificación, creación, distribución y administración de contenido en medios digitales, con el objetivo de comunicar efectivamente, llegar a la audiencia adecuada y lograr los objetivos de una organización. Esto incluye la producción de contenido en diversos formatos, como texto, imágenes, videos y audio, así como la implementación de estrategias de #[i marketing] digital, el uso de medios digitales y el seguimiento de métricas para evaluar el desempeño. La gestión de contenido digital es esencial en un mundo cada vez más digitalizado y competitivo, ya que permite a las organizaciones destacarse, interactuar con su audiencia y mantener una presencia relevante en línea .
 
     .row.justify-content-center
       .col-lg-10.mb-5
