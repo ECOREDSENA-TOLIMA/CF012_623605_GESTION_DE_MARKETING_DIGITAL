@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imagen decorativa')
       .col-lg-8(data-aos="fade-right")
         p Los medios digitales representan una parte fundamental de la comunicación en la era digital, ya que constituyen los canales a través de los cuales se transmiten información tanto dentro de la organización como hacia los consumidores. Los medios digitales abarcan diversas plataformas en Internet y se definen como los canales de comunicación disponibles en estas plataformas .
-        p La existencia de los medios digitales es esencial para la implementación de estrategias de marketing digital, ya que permiten la difusión de contenido digital en múltiples plataformas. Esto, a su vez, contribuye a la generación de leads, la creación de valor de marca y el aumento de las ventas.
+        p La existencia de los medios digitales es esencial para la implementación de estrategias de #[i marketing] digital, ya que permiten la difusión de contenido digital en múltiples plataformas. Esto, a su vez, contribuye a la generación de leads, la creación de valor de marca y el aumento de las ventas.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
         p Antes de utilizar los canales digitales para la difusión de contenido, es necesario que las organizaciones desarrollen estrategias de comunicación que incluyan acciones y herramientas comunicativas. Estas estrategias deben alinearse con los objetivos de comunicación de la organización, los cuales buscan posicionar la imagen corporativa y aumentar el reconocimiento de la marca.
@@ -150,7 +150,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
-        p Estos diferentes tipos de medios digitales se integran con el plan de medios, el cual hace parte de la planeación estratégica del #[i marketing] digital debido a que permite establecer los medios digitales que se emplearán para aplicar las estrategias de marketing.  Al implementar un plan de medios, se deben establecer los objetivos, el público objetivo, las estrategias, definir los medios digitales, establecer el presupuesto, cronograma y los KPI. 
+        p Estos diferentes tipos de medios digitales se integran con el plan de medios, el cual hace parte de la planeación estratégica del #[i marketing] digital debido a que permite establecer los medios digitales que se emplearán para aplicar las estrategias de #[i marketing].  Al implementar un plan de medios, se deben establecer los objetivos, el público objetivo, las estrategias, definir los medios digitales, establecer el presupuesto, cronograma y los KPI. 
         p En el siguiente video, se describe de forma detallada el concepto y los elementos que integran un plan de medios 
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="flip-up")     
@@ -164,8 +164,8 @@
       h2.my-5 1.3 Plataformas digitales
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
-        p Con los nuevos medios de la información y la comunicación que han surgido gracias a la nueva era digital y tecnológica, se han desarrollado plataformas digitales, las cuales, a través de aplicaciones, software  o programas, permiten la ejecución e interacción de diferentes actividades a través de la red o el Internet. 
-        p Estas plataformas digitales son de gran importancia en los planes estratégicos de la organización, debido a que permiten o soportan los planes de marketing digital y planes de comunicación, permitiendo así llegar, de una forma ágil y oportuna, al público objetivo, interactuar con ellos y resolver sus necesidades. 
+        p Con los nuevos medios de la información y la comunicación que han surgido gracias a la nueva era digital y tecnológica, se han desarrollado plataformas digitales, las cuales, a través de aplicaciones, #[i software]  o programas, permiten la ejecución e interacción de diferentes actividades a través de la red o el Internet. 
+        p Estas plataformas digitales son de gran importancia en los planes estratégicos de la organización, debido a que permiten o soportan los planes de #[i marketing] digital y planes de comunicación, permitiendo así llegar, de una forma ágil y oportuna, al público objetivo, interactuar con ellos y resolver sus necesidades. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
