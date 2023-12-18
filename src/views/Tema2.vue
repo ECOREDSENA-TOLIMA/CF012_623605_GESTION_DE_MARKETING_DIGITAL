@@ -141,7 +141,7 @@
               img(src='@/assets/curso/temas/tema2/img9.jpg', alt='Imagen decorativa')
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Merchandising
+            h4 #[i Merchandising]
             p Es una estrategia de promoción que busca congregar a los consumidores para dar a conocer un producto, servicio o marca, y lograr que ellos los adquieran; dentro de estas estrategias, se encuentran las degustaciones, obsequios, exhibiciones, sorteos, entre otras. 
           .col-md-6
             figure
@@ -175,8 +175,8 @@
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-12(data-aos="flip-up")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+          .video   
+            iframe(width="512" height="432" src="https://www.youtube.com/embed/RGG-OLsce8c" title="Piezas publicitarias, material de promoción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     Separador
     .row
       .col-xl-12
@@ -222,7 +222,7 @@
             thead
               tr
                 th DIFERENCIAS
-                th PROMOCION
+                th PROMOCIÓN
                 th PUBLICIDAD
             tbody
               tr

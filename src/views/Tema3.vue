@@ -96,14 +96,14 @@ export default {
       {
         titulo: 'Infografías',
         texto:
-          'El principal objetivo de las infografías es informar de una forma creativa; están creadas principalmente por imágenes y gráficos llamativos, y poco texto explicativo; deben ser creadas para transmitir información a los consumidores de una forma didáctica. Permiten que los sitios web sean atractivos. Las infografías se comparten en diferentes sitios, como las redes sociales; cuyo resultado es un aumento de tráfico en la página web.',
+          'El principal objetivo de las infografías es informar de una forma creativa; están creadas principalmente por imágenes y gráficos llamativos, y poco texto explicativo; deben ser creadas para transmitir información a los consumidores de una forma didáctica. Permiten que los sitios <em>web</em> sean atractivos. Las infografías se comparten en diferentes sitios, como las redes sociales; cuyo resultado es un aumento de tráfico en la página <em>web</em>.',
         imagen: require('@/assets/curso/temas/tema3/img10.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '<em>E-book</em>',
         texto:
-          'Sin lugar a dudas, una de las industrias que se ha debido transformar con la nueva era digital ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales. Los libros digitales son más elaborados y extensos que los posts en los <em>blogs</em> ; también permiten que se descarguen en formatos establecidos; este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing</em>.',
+          'Sin lugar a dudas, una de las industrias que se ha debido transformar con la nueva era digital ha sido las editoriales, por lo cual empiezan a publicar libros en formatos digitales. Los libros digitales son más elaborados y extensos que los <em>posts</em> en los <em>blogs</em> ; también permiten que se descarguen en formatos establecidos; este contenido puede ser pago o gratuito, todo dependerá de la estrategia de <em>marketing</em>.',
         imagen: require('@/assets/curso/temas/tema3/img11.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -124,7 +124,7 @@ export default {
       {
         titulo: '<em>Webinar</em>',
         texto:
-          'Son contenido digital creado con la finalidad de captar suscriptores o leads a través de un tema específico de interés, como lo es la educación, cocina, historias, noticias, entre otros, mediante videos. Algunos pueden ser online y otros pregrabados, todo dependerá de la estrategia creada.',
+          'Son contenido digital creado con la finalidad de captar suscriptores o <em>leads</em> a través de un tema específico de interés, como lo es la educación, cocina, historias, noticias, entre otros, mediante videos. Algunos pueden ser online y otros pregrabados, todo dependerá de la estrategia creada.',
         imagen: require('@/assets/curso/temas/tema3/img14.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

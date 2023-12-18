@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imagen decorativa')
       .col-lg-8(data-aos="fade-right")
         p Los medios digitales representan una parte fundamental de la comunicación en la era digital, ya que constituyen los canales a través de los cuales se transmiten información tanto dentro de la organización como hacia los consumidores. Los medios digitales abarcan diversas plataformas en Internet y se definen como los canales de comunicación disponibles en estas plataformas .
-        p La existencia de los medios digitales es esencial para la implementación de estrategias de #[i marketing] digital, ya que permiten la difusión de contenido digital en múltiples plataformas. Esto, a su vez, contribuye a la generación de leads, la creación de valor de marca y el aumento de las ventas.
+        p La existencia de los medios digitales es esencial para la implementación de estrategias de #[i marketing] digital, ya que permiten la difusión de contenido digital en múltiples plataformas. Esto, a su vez, contribuye a la generación de #[i leads], la creación de valor de marca y el aumento de las ventas.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
         p Antes de utilizar los canales digitales para la difusión de contenido, es necesario que las organizaciones desarrollen estrategias de comunicación que incluyan acciones y herramientas comunicativas. Estas estrategias deben alinearse con los objetivos de comunicación de la organización, los cuales buscan posicionar la imagen corporativa y aumentar el reconocimiento de la marca.
@@ -22,7 +22,7 @@
       .col-lg-12(data-aos="flip-up")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/O7Ak6T34zro" title="Piezas gráficas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-12(data-aos="fade-right")
         p Las estrategias comunicativas que serán implementadas por las organizaciones, deben estar adaptadas a los nuevos medios digitales de la información y la comunicación; por lo cual, las organizaciones deben crear sus planes de comunicación.
@@ -46,56 +46,56 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
           .col-12
-            h4 Investigación de la situación actual de la organización.
+            h4.text-center Investigación de la situación actual de la organización
             p.text-center Se recomienda a las organizaciones realizar el análisis DOFA, como también el análisis de las cinco (5) fuerzas de Porter; estos análisis permitirán crear los planes estratégicos de la organización, debido a que se identifican los ítems claves de gestión.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
           .col-12
-            h4 Establecer los objetivos
+            h4.text-center Establecer los objetivos
             p.text-center Se deben plantear los objetivos para el plan estratégico de comunicación, estos deben responder a lo que se desea lograr, cuál es la finalidad y qué se requiere para lograrlos.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
           .col-12
-            h4 Público objetivo 
+            h4.text-center Público objetivo 
             p.text-center Se debe identificar y caracterizar a quién estará dirigido el plan estratégico de la organización; con quién o quiénes se pretende crear lazos de comunicación y se desea transmitir un mensaje. 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
           .col-12
-            h4 Diseño del mensaje
+            h4.text-center Diseño del mensaje
             p.text-center Una vez identificado el público objetivo, debe diseñar el mensaje de comunicación; estos mensajes deben ser innovadores y crear una fuerte conexión con el público, deben ser eficientes y eficaces. 
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
           .col-12
-            h4 Presupuesto
+            h4.text-center Presupuesto
             p.text-center Se debe tener un presupuesto de cuál será la inversión, costos, gastos e ingresos establecidos para el proyecto y que se ajuste al plan estratégico comunicacional.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img8.svg' alt='AvatarTop')
           .col-12
-            h4 Canales de comunicación 
+            h4.text-center Canales de comunicación 
             p.text-center Se deben establecer los canales de comunicación idóneos para implementar el plan estratégico de comunicación, los cuales deben ser acordes con los objetivos a alcanzar y el público objetivo.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img9.svg' alt='AvatarTop')
           .col-12
-            h4 Calendario y cronograma 
+            h4.text-center Calendario y cronograma 
             p.text-center El calendario permite establecer las fechas y momentos en los cuales se transmitirá el mensaje, y el cronograma establece el tiempo de ejecución e implementación del plan de comunicación, tiempo en el cual se pretende lograr los objetivos. 
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
           .col-12
-            h4 Indicadores de gestión y métricas
+            h4.text-center Indicadores de gestión y métricas
             p.text-center Se deben establecer los indicadores de gestión y métricas para el plan de comunicación, los cuales permiten realizar el seguimiento, evaluación y control del mismo. También se deben adelantar planes de mejora. 
     Separador
     .row
@@ -105,7 +105,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="fade-right")
         p Al abordar el tema de los medios digitales, es necesario explorar la comunicación digital, la cual comparte elementos fundamentales con la comunicación tradicional, tales como el emisor, el receptor y el mensaje. Sin embargo, la diferencia radica en que, en la comunicación digital, el mensaje se transmite a través de datos utilizando señales digitales. Esta transmisión de datos implica la codificación del mensaje, y se lleva a cabo a través de canales digitales, medios digitales o canales interactivos, que posibilitan la comunicación entre diversos usuarios.
-        p En la comunicación digital, el proceso de codificación y decodificación de información se realiza mediante sistemas binarios, donde los datos se representan mediante combinaciones de 0 y 1. Esta característica distingue a los medios digitales de los medios tradicionales, permitiendo una transmisión más eficiente y versátil de la información a través de diversas plataformas en línea, como sitios web , redes sociales, correos electrónicos, entre otros.
+        p En la comunicación digital, el proceso de codificación y decodificación de información se realiza mediante sistemas binarios, donde los datos se representan mediante combinaciones de 0 y 1. Esta característica distingue a los medios digitales de los medios tradicionales, permitiendo una transmisión más eficiente y versátil de la información a través de diversas plataformas en línea, como sitios #[i web] , redes sociales, correos electrónicos, entre otros.
       .col-lg-6
         figure  
           img(src='@/assets/curso/temas/tema1/img11.jpg', alt='Imagen decorativa')
@@ -156,7 +156,7 @@
       .col-lg-12(data-aos="flip-up")     
         figure
           .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/I2GzCNQl02I" title="Plan de medios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     Separador
     .row
       .col-xl-12

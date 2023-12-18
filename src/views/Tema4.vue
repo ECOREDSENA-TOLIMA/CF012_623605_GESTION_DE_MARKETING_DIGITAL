@@ -16,7 +16,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="flip-up")
         p La implementación de parrillas de contenido aporta eficiencia y eficacia a la estrategia de #[i marketing] digital. Al hacerlo, se logra un mejor posicionamiento, se reducen los errores y se mantiene un control efectivo de los eventos y fechas relevantes.
-        p Es importante destacar que, antes de profundizar en los conceptos de la parrilla de contenido, sus tipos y usos, es necesario comprender las campañas publicitarias como estrategias del #[i marketing] digital. Estas campañas tienen como objetivo promocionar un producto, servicio o marca a través de los canales digitales, como sitios web, correo electrónico, redes sociales y otros medios en línea.
+        p Es importante destacar que, antes de profundizar en los conceptos de la parrilla de contenido, sus tipos y usos, es necesario comprender las campañas publicitarias como estrategias del #[i marketing] digital. Estas campañas tienen como objetivo promocionar un producto, servicio o marca a través de los canales digitales, como sitios #[i web], correo electrónico, redes sociales y otros medios en línea.
         p Una campaña publicitaria es una estrategia de #[i marketing] que tiene como objetivo promocionar un producto, servicio o marca a través de medios de comunicación y canales publicitarios. Estas campañas están diseñadas para atraer la atención de la audiencia, persuadir a los consumidores y lograr objetivos específicos de #[i marketing].
 
       .col-lg-4(data-aos="flip-left")
@@ -32,64 +32,64 @@
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img3.svg' alt='AvatarTop')
           .col-12
-            h4 Definición de objetivos
-            p.text-left Identificar claramente los resultados que se desean lograr con la campaña, ya sea aumentar las ventas, mejorar el conocimiento de la marca, generar leads, etc.
+            h4.text-center Definición de objetivos
+            p.text-center Identificar claramente los resultados que se desean lograr con la campaña, ya sea aumentar las ventas, mejorar el conocimiento de la marca, generar #[i leads], etc.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img4.svg' alt='AvatarTop')
           .col-12
-            h4 Segmentación de audiencia
-            p.text-left Identificar y comprender al público objetivo para adaptar el mensaje y los canales de comunicación de acuerdo con sus necesidades y preferencias.
+            h4.text-center Segmentación de audiencia
+            p.text-center Identificar y comprender al público objetivo para adaptar el mensaje y los canales de comunicación de acuerdo con sus necesidades y preferencias.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img5.svg' alt='AvatarTop')
           .col-12
-            h4 Desarrollo de mensajes y creatividad
-            p.text-left Crear mensajes y contenido publicitario creativo que resuene con la audiencia y transmita el valor del producto o servicio.
+            h4.text-center Desarrollo de mensajes y creatividad
+            p.text-center Crear mensajes y contenido publicitario creativo que resuene con la audiencia y transmita el valor del producto o servicio.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img6.svg' alt='AvatarTop')
           .col-12
-            h4 Selección de canales y medios
-            p.text-left Determinar los canales y medios a utilizar para llegar a la audiencia, que pueden incluir anuncios en línea, publicidad en redes sociales, correo electrónico, televisión, radio, medios impresos, entre otros.
+            h4.text-center Selección de canales y medios
+            p.text-center Determinar los canales y medios a utilizar para llegar a la audiencia, que pueden incluir anuncios en línea, publicidad en redes sociales, correo electrónico, televisión, radio, medios impresos, entre otros.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img7.svg' alt='AvatarTop')
           .col-12
-            h4 Planificación de presupuesto y tiempo
-            p.text-left Establecer un presupuesto para la campaña y un calendario que indique cuándo se llevarán a cabo las actividades promocionales.
+            h4.text-center Planificación de presupuesto y tiempo
+            p.text-center Establecer un presupuesto para la campaña y un calendario que indique cuándo se llevarán a cabo las actividades promocionales.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img8.svg' alt='AvatarTop')
           .col-12
-            h4 Ejecución de la campaña
-            p.text-left Implementar la campaña publicitaria de acuerdo con el plan, lo que puede incluir la creación de anuncios, el lanzamiento de campañas en redes sociales, la distribución de correos electrónicos y otros esfuerzos promocionales.
+            h4.text-center Ejecución de la campaña
+            p.text-center Implementar la campaña publicitaria de acuerdo con el plan, lo que puede incluir la creación de anuncios, el lanzamiento de campañas en redes sociales, la distribución de correos electrónicos y otros esfuerzos promocionales.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img9.svg' alt='AvatarTop')
           .col-12
-            h4 Seguimiento y medición
-            p.text-left Evaluar el rendimiento de la campaña a través de métricas clave, como tasas de clics, tasas de conversión, alcance y retorno de la inversión (ROI). A partir de estos datos, se pueden realizar ajustes necesarios.
+            h4.text-center Seguimiento y medición
+            p.text-center Evaluar el rendimiento de la campaña a través de métricas clave, como tasas de clics, tasas de conversión, alcance y retorno de la inversión (ROI). A partir de estos datos, se pueden realizar ajustes necesarios.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img11.svg' alt='AvatarTop')
           .col-12
-            h4 Optimización
-            p.text-left Basándose en los resultados y el análisis de datos, se realizan mejoras en la campaña para aumentar su eficacia. Esto puede incluir la revisión y ajuste de mensajes, la reorientación de anuncios y la redistribución de presupuesto.
+            h4.text-center Optimización
+            p.text-center Basándose en los resultados y el análisis de datos, se realizan mejoras en la campaña para aumentar su eficacia. Esto puede incluir la revisión y ajuste de mensajes, la reorientación de anuncios y la redistribución de presupuesto.
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img.mb-4(src='@/assets/curso/temas/tema4/img12.svg' alt='AvatarTop')
           .col-12
-            h4 Informe de resultados
-            p.text-left Se crea un informe final que resume los resultados de la campaña y la efectividad en la consecución de los objetivos. Esto proporciona una visión clara de lo que funcionó y lo que no, y puede guiar las estrategias futuras.
+            h4.text-center Informe de resultados
+            p.text-center Se crea un informe final que resume los resultados de la campaña y la efectividad en la consecución de los objetivos. Esto proporciona una visión clara de lo que funcionó y lo que no, y puede guiar las estrategias futuras.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-up")
         p La dinamización exitosa de una campaña publicitaria implica una combinación de creatividad, planificación estratégica y análisis de datos para asegurarse de que se cumplan los objetivos de #[i marketing] establecidos. Cada campaña puede variar en función de su enfoque, pero estos son los pasos generales para gestionar una campaña publicitaria de manera efectiva.

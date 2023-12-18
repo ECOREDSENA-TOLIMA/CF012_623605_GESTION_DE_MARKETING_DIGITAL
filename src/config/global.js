@@ -123,7 +123,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Storytelling',
+        titulo: '<em>Storytelling</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -141,7 +141,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Hashtag',
+        titulo: '<em>Hashtag</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -206,7 +206,7 @@ export default {
     {
       tema: '1. <em>Insights</em> y medios digitales.',
       referencia:
-        'Rodríguez- Caro, O., Montoya-Restrepo, L. y Montoya-Restrepo, I. (2022). Reconocimiento del valor Storytelling y la Co-creación en la construcción de microsegmentos a través de la Estrategia de Marketing Digital. I+D Revista de Investigaciones,17(2), p. 1-17.',
+        'Rodríguez- Caro, O., Montoya-Restrepo, L. y Montoya-Restrepo, I. (2022). Reconocimiento del valor <em>Storytelling</em> y la Co-creación en la construcción de microsegmentos a través de la Estrategia de <em>Marketing</em> Digital. I+D Revista de Investigaciones,17(2), p. 1-17.',
       tipo: 'Documento en línea',
       link:
         'https://udi.edu.co/revistainvestigaciones/index.php/ID/article/view/337/438',
@@ -255,15 +255,15 @@ export default {
     {
       termino: '<em>Marketing</em> de contenidos',
       significado:
-        'son estrategias de marketing enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente, a través del <em>blog</em> y del social media <em>marketing</em>.',
+        'son estrategias de <em>marketing</em> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente, a través del <em>blog</em> y del social media <em>marketing</em>.',
     },
     {
       termino: 'Redes Sociales',
       significado: 'comunidad de personas que se forma en Internet.',
     },
     {
-      termino: 'Sitio web',
-      significado: 'conjunto de páginas web.',
+      termino: 'Sitio <em>web</em>',
+      significado: 'conjunto de páginas <em>web</em>.',
     },
     {
       termino: '<em>Storytelling</em>',
@@ -271,7 +271,7 @@ export default {
         'técnica de <em>marketing</em> cuyo objetivo es conectar y vincular al usuario directamente con el contenido contado en forma de historia gráfica o audiovisual.',
     },
     {
-      termino: 'Webinars',
+      termino: '<em>Webinars</em>',
       significado:
         'también llamados <em>webminars</em>, son eventos o conferencias que tienen lugar en el medio <em>online</em>. Es una muy buena estrategia para enganchar nuevos seguidores en las redes sociales.',
     },
@@ -279,7 +279,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Adán, P., Arancibia, R., López, A., Ramírez, J. Sospedra, R. y Valladares, Á. (2017). B2S Business to Social. Marketing digital para empresas y personas. Alfaomega.',
+        'Adán, P., Arancibia, R., López, A., Ramírez, J. Sospedra, R. y Valladares, Á. (2017). B2S Business to Social. <em>Marketing</em> digital para empresas y personas. Alfaomega.',
       link: '',
     },
     {
@@ -289,7 +289,7 @@ export default {
     },
     {
       referencia:
-        'Lehnhoff, G. (2020). Manual de storytelling para comunicar el desarrollo. USAID y LAC Reads. ',
+        'Lehnhoff, G. (2020). Manual de <em>storytelling</em> para comunicar el desarrollo. USAID y LAC Reads. ',
       link:
         'https://lacreads.org/sites/default/files/documents/manual_de_storytelling_para_el_desarrollo_validado_gl_pb.',
     },
@@ -299,12 +299,12 @@ export default {
       link: '',
     },
     {
-      referencia: 'Peiró, R. (2019). Marketing digital. Economipedia.',
+      referencia: 'Peiró, R. (2019). <em>Marketing</em> digital. Economipedia.',
       link: 'https://economipedia.com/definiciones/marketing-digital.html',
     },
     {
       referencia:
-        'Rodríguez-Caro, O., Montoya-Restrepo, L. y Montoya-Restrepo, I. (2022). Reconocimiento del valor Storytelling y la Co-creación en la construcción de microsegmentos a través de la Estrategia de Marketing Digital. I+D Revista de Investigaciones,17(2), p. 1-17. ',
+        'Rodríguez-Caro, O., Montoya-Restrepo, L. y Montoya-Restrepo, I. (2022). Reconocimiento del valor <em>Storytelling</em> y la Co-creación en la construcción de microsegmentos a través de la Estrategia de <em>Marketing</em> Digital. I+D Revista de Investigaciones,17(2), p. 1-17. ',
       link:
         'https://udi.edu.co/revistainvestigaciones/index.php/ID/article/view/337/438',
     },
@@ -315,12 +315,12 @@ export default {
     },
     {
       referencia:
-        'Shum, Y. (2019). Marketing digital. Navegando en aguas digitales. Ediciones de la U.',
+        'Shum, Y. (2019). <em>Marketing</em> digital. Navegando en aguas digitales. Ediciones de la U.',
       link: '',
     },
     {
       referencia:
-        'Viteri, F., Herrera, L. y Bazurto, A. (2017). Las Tendencias del Marketing: Cuáles son y definiciones. Recimundo Revista Científica de la Investigación y el Conocimiento, 1(5), p. 974-988.',
+        'Viteri, F., Herrera, L. y Bazurto, A. (2017). Las Tendencias del <em>Marketing</em>: Cuáles son y definiciones. Recimundo Revista Científica de la Investigación y el Conocimiento, 1(5), p. 974-988.',
       link: 'https://doi.org/10.26820/recimundo/1.5.2017.974-988',
     },
     {
@@ -349,9 +349,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -359,9 +359,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'María Alejandra Tovar Bernal',
+          cargo: 'Experta Temática',
+          centro: 'Regional Tolima - Centro de Industria y la Información',
+        },
+        {
+          nombre: 'Adriana López',
+          cargo: 'Diseñadora Instruccional ',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Álix Cecilia Chinchilla Rueda',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
+        },
+        {
+          nombre: 'Darío González',
+          cargo: 'Corrector de Estilo',
+          centro: 'egional Distrito Capital. Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica ',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },
@@ -369,19 +400,39 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Veimar Celis Meléndez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador y Producción audiovisual',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Veimar Celis Meléndez',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },
@@ -389,14 +440,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima – Centro de Comercio y Servicios',
         },
       ],
     },
