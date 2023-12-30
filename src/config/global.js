@@ -338,6 +338,11 @@ export default {
         'Ecosistema de Recursos Educativos SENA. (2021). Piezas publicitarias, material de promoción [Video]. YouTube. ',
       link: 'https://youtu.be/RGG-OLsce8c',
     },
+    {
+      referencia:
+        'Luque, T., & Lozano, J. (2017). Las tendencias del marketing.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=6732812',
+    },
   ],
   creditos: [
     {
@@ -382,7 +387,7 @@ export default {
         {
           nombre: 'Darío González',
           cargo: 'Corrector de Estilo',
-          centro: 'egional Distrito Capital. Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
         },
         {
           nombre: 'Juan Gilberto Giraldo Cortes',
