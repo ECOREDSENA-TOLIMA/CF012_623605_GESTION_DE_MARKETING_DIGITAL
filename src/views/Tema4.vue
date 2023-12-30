@@ -120,73 +120,73 @@
     .tarjeta.tarjeta--azul.p-4.mb-5
       PasosB.color-primario
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de contenido para publicidad
             p En estas parrillas, se encuentra la publicidad a pautar, el día en el que se pautará, la franja de horario y el canal.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img14.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de diseño
             p En estas parrillas, se encuentran los diseños de la publicidad a realizar, el día en el que se deben elaborar, y el equipo de trabajo responsable.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img15.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de planes de contenidos
             p En estas parrillas, se encuentran los planes de contenido, con cada una de sus actividades y las fechas en las cuales se deben ejecutar. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img16.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de contenido corporativo
             p Se planea la divulgación de contenido referente a la organización o corporación, por lo cual se centran en destacar la misión, visión, valores corporativos, cultura organizacional y sus emblemas; dentro de la ambientación o diseño de los mensajes a divulgar, se emplean los símbolos, logos, colores característicos de la organización. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img17.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de comerciales en redes sociales
             p Creación o divulgación de productos o servicios a ser comercializados en redes sociales, con el objetivo de incentivar el consumo; es muy útil en los lanzamientos, como también las ofertas de descuentos. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img18.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrillas de soporte u orientación
             p Buscan dar orientación o soporte a los consumidores de productos o servicios, por ejemplo, horarios de servicio, medios donde se brinda soporte técnico, instrucciones de uso, comunicados a la opinión pública, entre otras. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img19.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrilla de #[i tips], tutoriales o consejos
             p Se brindan #[i tips], tutoriales o consejos, de acuerdo con los intereses del público objetivo segmentado.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img20.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrilla informativa
             p Se encuentra relacionada con toda la información o noticias relevantes respecto a los productos, servicios o marcas. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img21.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrilla de emociones o sentimientos
             p Permite crear conexión con la audiencia a través de los sentimientos, como también a través de la motivación. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img22.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Parrilla de eventos
             p Orienta a la audiencia respecto a los eventos a adelantar, los cuales deben permitir informar sobre el evento antes, durante y después.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema4/img23.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5

@@ -47,9 +47,6 @@
       .col-lg-12(data-aos="flip-up")
         p Las estrategias de #[i marketing] permiten lograr un beneficio mutuo, tanto para las organizaciones como para los consumidores. Es por ello que poseen características específicas que facilitan la obtención de estos beneficios. En la siguiente figura se destacan algunas de estas características clave:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="flip-up")
-        p En cuanto a los objetivos primordiales del #[i marketing], estos incluyen:
-    .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 4.
@@ -104,8 +101,7 @@
         p Es indispensable que las organizaciones, al adelantar estrategias de promoción, tengan en cuenta quién es la audiencia, quiénes son las personas o usuarios que van a recibir el mensaje a través de los diferentes medios de comunicación; por lo cual, puede indicarse que la audiencia también es una forma de segmentar el mercado. 
         p La segmentación del mercado permite agrupar los clientes potenciales en grupos de acuerdo con su ubicación geográfica, la demografía (edad, sexo), el grupo socioeconómico (nivel de ingresos), según las características psicológicas y comportamentales (beneficio del comprador, intención de compra); por su parte, el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
         p Se pueden diferenciar distintos tipos de audiencia, como se muestra en la siguiente figura:
-    
-        p En cuanto a los objetivos primordiales del #[i marketing], estos incluyen:
+            
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
@@ -216,7 +212,7 @@
           h5 Tabla 1.
           span  #[i Diferencias entre promoción y publicidad]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop(data-aos="flip-up")
+      .col-lg-10(data-aos="flip-up")
         .tabla-a.color-acento-contenido.mb-5
           table
             thead

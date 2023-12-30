@@ -12,7 +12,7 @@
         figure  
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imagen decorativa')
       .col-lg-8(data-aos="fade-right")
-        p Los medios digitales representan una parte fundamental de la comunicación en la era digital, ya que constituyen los canales a través de los cuales se transmiten información tanto dentro de la organización como hacia los consumidores. Los medios digitales abarcan diversas plataformas en Internet y se definen como los canales de comunicación disponibles en estas plataformas .
+        p Los medios digitales representan una parte fundamental de la comunicación en la era digital, ya que constituyen los canales a través de los cuales se transmiten información tanto dentro de la organización como hacia los consumidores. Los medios digitales abarcan diversas plataformas en Internet y se definen como los canales de comunicación disponibles en estas plataformas.
         p La existencia de los medios digitales es esencial para la implementación de estrategias de #[i marketing] digital, ya que permiten la difusión de contenido digital en múltiples plataformas. Esto, a su vez, contribuye a la generación de #[i leads], la creación de valor de marca y el aumento de las ventas.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="fade-right")
@@ -198,52 +198,52 @@
     .tarjeta.tarjeta--azul.p-4
       PasosB.color-primario
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas educativas
             p Permiten la experiencia de aprendizaje de forma remota; estas plataformas pueden ser empleadas para educación a distancia o virtual, como también de complemento para la educación presencial.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img15.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas de comercio electrónico
             p Permiten la comercialización de productos y servicios de forma remota, desde diferentes espacios geográficos. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img16.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas sociales
             p Son las plataformas que permiten la interacción social entre los usuarios a través de los medios digitales.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img17.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas audiovisuales
             p Hacen referencia a las plataformas con contenido digital en video y audio. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img18.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas de imágenes
             p Como su nombre lo indica, son plataformas que presentan contenido digital a través de imágenes.
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img19.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas bancarias
             p Es una forma en la cual las entidades financieras permiten a los usuarios acceder a sus productos y servicios en línea.     
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img20.jpg', alt='Imagen decorativa')
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.col-ipad
             h4 Plataformas especializadas
             p Estas plataformas se centran en un público objetivo muy selecto o con algunas actividades específicas a realizar, como son las plataformas bursátiles. 
-          .col-md-6
+          .col-md-6.col-ipad
             figure
               img(src='@/assets/curso/temas/tema1/img21.jpg', alt='Imagen decorativa')
 
