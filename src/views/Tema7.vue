@@ -11,7 +11,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema7/img1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0  Los #[i hashtags] son una parte integral de las estrategias de contenido digital, utilizados para referenciar y compartir contenido en redes sociales como Facebook, Instagram, TikTok y X a través de palabras clave. Su objetivo es ampliar la audiencia del contenido digital al permitir que los consumidores encuentren y accedan al material etiquetado con un #[i hashtag] específico. Los hashtags funcionan como etiquetas para el contenido, lo que significa que cuando un consumidor utiliza una de estas palabras clave, puede descubrir y acceder a contenido relacionado con ese #[i hashtag]. Además, los hashtags permiten que el contenido digital se agrupe en categorías según las palabras clave asignadas, lo que facilita la organización y la búsqueda de temas específicos.
+        p.mb-0  Los #[i hashtags] son una parte integral de las estrategias de contenido digital, utilizados para referenciar y compartir contenido en redes sociales como Facebook, Instagram, TikTok y X a través de palabras clave. Su objetivo es ampliar la audiencia del contenido digital al permitir que los consumidores encuentren y accedan al material etiquetado con un #[i hashtag] específico. Los #[i hashtags] funcionan como etiquetas para el contenido, lo que significa que cuando un consumidor utiliza una de estas palabras clave, puede descubrir y acceder a contenido relacionado con ese #[i hashtag]. Además, los #[i hashtags] permiten que el contenido digital se agrupe en categorías según las palabras clave asignadas, lo que facilita la organización y la búsqueda de temas específicos.
     Separador
     .row
       .col-xl-12
@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="flip-left")
         p El #[i hashtag] se caracteriza por llevar el símbolo “#” antes de cada palabra clave, el cual se encuentra parametrizado dentro de las diferentes redes sociales para que sea reconocido como una etiqueta, la cual ya se clasifica dentro de un grupo o categorías.
-        p El término #[i hashtag] y la simbología “#” se emplean inicialmente en la red social Twitter, con la funcionalidad de etiquetar palabras claves de acuerdo con temas de interés o que se encuentran relacionados; estrategia que emigró posteriormente a redes sociales como Instagram y TikTok.
+        p El término #[i hashtag] y la simbología “#” se emplean inicialmente en la red social X, con la funcionalidad de etiquetar palabras claves de acuerdo con temas de interés o que se encuentran relacionados; estrategia que emigró posteriormente a redes sociales como Instagram y TikTok.
         p Para emplear los #[i hashtags] dentro de los contenidos digitales, se deben emplear palabras específicas, no muy largas; si el #[i hashtag] hace parte de dos palabras, se debe procurar escribirlas juntas, por ejemplo, #[b #[i #photooftheday]], y no #[b #[i #photoo]] #[b #[i #of]] #[b #[i #the]] #[b #[i #day]]. Los #[i hashtags] deben estar relacionados con el contenido a divulgar y es indispensable el uso adecuado de la ortografía.  
       .col-lg-3(data-aos="flip-left")
         figure

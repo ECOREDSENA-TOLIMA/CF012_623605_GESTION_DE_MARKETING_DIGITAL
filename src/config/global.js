@@ -250,7 +250,7 @@ export default {
     {
       termino: 'KPI',
       significado:
-        'son las siglas de <em>key performance indicator</em>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media marketing.',
+        'son las siglas de <em>key performance indicator</em>; son indicadores y herramientas de medición de los cuales se obtiene información útil del nivel de rendimiento de una campaña o estrategia de social media <em>marketing.</em>',
     },
     {
       termino: '<em>Marketing</em> de contenidos',

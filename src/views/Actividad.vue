@@ -9,7 +9,7 @@
           figure
             img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-contenido
           h2 Implementación de la gestión de contenido digital
         p.mb-4 #[b Objetivo]: Identificar los conceptos y estrategias de la gestión de contenido digital a implementar en las organizaciones a partir del plan de comunicación.
         .tarjeta.actividad.p-3
@@ -17,7 +17,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Cuestionario
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividad/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
